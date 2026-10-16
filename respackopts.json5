@@ -1,6 +1,6 @@
 {
     id: "classicsTweaks",
-    version: 14,
+    version: 13,
     capabilities: ["FileFilter"],
     conf: {
         discTweaks: true,
