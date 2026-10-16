@@ -1,6 +1,8 @@
-![Classic's Tweaks logo](https://i.postimg.cc/vT35zMLf/CTLogo-V1Outline-wide.png)
+![Classic's Tweaks logo banner](https://i.postimg.cc/qv47sRkt/CT-Banner.png)
 
 Little details matter: subtle texture tweaks for Minecraft, each one toggleable in-game.
+
+The new home for [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks/), [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks/), [Classic's Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks/) and [Classic's Note Block Tweaks](https://modrinth.com/resourcepack/classics-note-block-tweaks/).
 
 ## Downloads
 
@@ -13,7 +15,7 @@ Classic's Tweaks is only available on the platforms listed below. Please be awar
 Visit the [Gallery page](https://modrinth.com/datapack/better-craftables/gallery) for a brief look at what Classic's Tweaks has to offer or check out the [Classic's Tweaks wiki page](https://github.com/Classics-Craftworks/Classics-Tweaks/wiki/All-Tweaks) for a full list!
 
 * **Disc Tweaks** - Subtly widens music discs and unifies their design for a more cohesive look.
-* **Dye Tweaks** - Tweaks the dye textures introduced in 1.21.9.
+* **Dye Tweaks** - Tweaks the dye textures introduced in 1.21.9 by removing the palette strip and fixing some pixels.
 * **Lantern Tweaks** - Tweaks the edges of Soul and Copper Lanterns, to better match the regular Lantern.
 
 Coming Soon:
