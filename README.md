@@ -15,6 +15,8 @@ Visit the [Gallery page](https://modrinth.com/datapack/better-craftables/gallery
 * **Disc Tweaks** - Subtly widens music discs and unifies their design for a more cohesive look.
 * **Dye Tweaks** - Tweaks the dye textures introduced in 1.21.9.
 * **Lantern Tweaks** - Tweaks the edges of Soul and Copper Lanterns, to better match the regular Lantern.
+
+Coming Soon:
 * **Updated Note Blocks** - Updates Note Blocks to better match the new 26.4 Jukebox textures.
 * **26.4 Jukebox Backport** - Backports the new 26.4 Jukebox textures to 1.21.9 - 26.3.
 
@@ -53,7 +55,7 @@ The standalone packs ([Disc Tweaks](https://modrinth.com/resourcepack/classics-d
 They change the same textures, so there's no reason to enable both. Use either this pack or the standalone ones.
 
 ### Why is there no v1 and v2?
-Those were my own personal versions from 2019 and were never released publicly, so the first public release starts at v3.
+Those were my own personal versions from 2021 and were never released publicly, so the first public release starts at v3.
 
 ## Bug Reports
 * Open a [GitHub issue](https://github.com/Classics-Craftworks/Classics-Tweaks/issues/new/choose)
