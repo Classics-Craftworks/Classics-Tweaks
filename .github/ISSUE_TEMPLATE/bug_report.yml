@@ -1,0 +1,48 @@
+name: Bug Report
+description: File a bug report
+type: Bug
+assignees:
+  - Classsic36
+body:
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before submitting
+      description: Please confirm the following before submitting your bug report.
+      options:
+        - label: I have checked [open issues](https://github.com/Classics-Craftworks/Classics-Tweaks/issues) and the bug has not already been reported.
+          required: true
+        - label: I have checked [closed issues](https://github.com/Classics-Craftworks/Classics-Tweaks/issues?q=is%3Aissue%20state%3Aclosed) and the bug has not already been fixed.
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear and concise description of what the bug is.
+      placeholder: "Example: The Bounce music disc does not have its updated texture."
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: Which version of Classic's Disc Tweaks are you using? If it's not listed, please consider updating!
+      options:
+        - v3.0.0-alpha.1
+    validations:
+      required: true
+  - type: input
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      description: Which version of Minecraft are you using?
+      placeholder: Simply "26.3" or "26.3 Snapshot 10", for example, will do.
+    validations:
+      required: true
+  - type: input
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please upload any relevant logs to https://mclo.gs/ and paste the link here.
+    validations:
+      required: false

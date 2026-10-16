@@ -1,0 +1,10 @@
+{
+    id: "classicsTweaks",
+    version: 14,
+    capabilities: ["FileFilter"],
+    conf: {
+        discTweaks: true,
+        dyeTweaks: true,
+        lanternTweaks: true
+    }
+}
