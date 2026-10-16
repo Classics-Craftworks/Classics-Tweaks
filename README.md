@@ -1,4 +1,4 @@
-# Classic's Tweaks
+![Classic's Tweaks logo](https://i.postimg.cc/vT35zMLf/CTLogo-V1Outline-wide.png)
 
 Little details matter: subtle texture tweaks for Minecraft, each one toggleable in-game.
 
