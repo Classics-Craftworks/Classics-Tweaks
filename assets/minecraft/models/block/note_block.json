@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "minecraft:block/note_block_top",
+    "side": "minecraft:block/note_block_side",
+    "bottom": "minecraft:block/note_block_bottom",
+    "particle": "minecraft:block/note_block_side"
+  }
+}

@@ -3,7 +3,13 @@
     "rpo.classicsTweaks.discTweaks": "Disc Tweaks",
     "rpo.classicsTweaks.discTweaks.tooltip": "Widens music discs by 1 pixel and unifies their design",
     "rpo.classicsTweaks.dyeTweaks": "Dye Tweaks",
-    "rpo.classicsTweaks.dyeTweaks.tooltip": "Tweaks 1.21.9 dye textures (no palette strip & small pixel fixes)",
+    "rpo.classicsTweaks.dyeTweaks.tooltip": "Tweaks 1.21.9's dye textures (no palette strip & small pixel fixes)",
     "rpo.classicsTweaks.lanternTweaks": "Lantern Tweaks",
-    "rpo.classicsTweaks.lanternTweaks.tooltip": "Soul and Copper Lantern edges adjusted to match the regular Lantern"
+    "rpo.classicsTweaks.lanternTweaks.tooltip": "Soul and Copper Lantern edges adjusted to match the regular Lantern",
+    "rpo.classicsTweaks.updatedNoteBlocks": "Updated Note Blocks",
+    "rpo.classicsTweaks.updatedNoteBlocks.tooltip": "Updates Note Blocks to better match the 26.4 Jukebox textures",
+    "rpo.classicsTweaks.jukeboxBackport": "26.4 Jukebox Backport",
+    "rpo.classicsTweaks.jukeboxBackport.tooltip": "Backports the 26.4 Jukebox textures to 1.21.9 - 26.3",
+    "rpo.classicsTweaks.zisteauPigmen": "Zisteau Pigmen",
+    "rpo.classicsTweaks.zisteauPigmen.tooltip": "Zombified Piglins named \"Zisteau\" become Zombie Pigmen"
 }

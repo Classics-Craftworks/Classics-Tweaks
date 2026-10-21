@@ -5,6 +5,9 @@
     conf: {
         discTweaks: true,
         dyeTweaks: true,
-        lanternTweaks: true
+        lanternTweaks: true,
+        updatedNoteBlocks: true,
+        jukeboxBackport: true,
+        zisteauPigmen: true
     }
 }
