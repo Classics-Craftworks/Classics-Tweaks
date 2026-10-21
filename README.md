@@ -1,8 +1,8 @@
 ![Classic's Tweaks logo banner](https://i.postimg.cc/qv47sRkt/CT-Banner.png)
 
-Little details matter: subtle texture tweaks for Minecraft, each one toggleable in-game.
+Little details matter: subtle texture tweaks for Minecraft, each one toggleable in-game with [Respackopts](https://modrinth.com/mod/respackopts).
 
-The new home for [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks), [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks), [Classic's Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks) and [Classic's Note Block Tweaks](https://modrinth.com/resourcepack/classics-note-block-tweaks).
+The new home for [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks), [Classic's Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks), [Classic's Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks), [Classic's Note Block Tweaks](https://modrinth.com/resourcepack/classics-note-block-tweaks) and [Zisteau Pigmen](https://modrinth.com/resourcepack/zisteau-pigmen).
 
 ## Downloads
 
@@ -38,7 +38,7 @@ Without them, the pack still works, but all changes are always enabled.
 | :--: | :--: |
 | 1.21.9 - 26.3 | [v3.0.0-beta.1](https://modrinth.com/resourcepack/classics-tweaks/version/v3.0.0-beta.1) |
 
-For Minecraft versions older than 1.21.9, use the standalone packs, which have builds going further back: [Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks/versions), [Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks/versions) and [Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks/versions).
+For Minecraft versions older than 1.21.9, use the standalone packs, which have builds going further back: [Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks/versions), [Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks/versions), [Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks/versions) & [Zisteau Pigmen](https://modrinth.com/resourcepack/zisteau-pigmen/versions).
 
 Older pack versions can be found [here on Modrinth](https://modrinth.com/resourcepack/classics-tweaks/versions) or [on GitHub](https://github.com/Classics-Craftworks/Classics-Tweaks/wiki/Versions).
 
