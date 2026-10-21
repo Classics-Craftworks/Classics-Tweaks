@@ -17,10 +17,11 @@ Visit the [Gallery page](https://modrinth.com/resourcepack/classics-tweaks/galle
 * **Disc Tweaks** - Subtly widens music discs and unifies their design for a more cohesive look.
 * **Dye Tweaks** - Tweaks the dye textures introduced in 1.21.9 by removing the palette strip and fixing some pixels.
 * **Lantern Tweaks** - Tweaks the edges of Soul and Copper Lanterns, to better match the regular Lantern.
-
-Coming Soon:
 * **Updated Note Blocks** - Updates Note Blocks to better match the new 26.4 Jukebox textures.
 * **26.4 Jukebox Backport** - Backports the new 26.4 Jukebox textures to 1.21.9 - 26.3.
+* **Zisteau Pigmen** - Zombified Piglins named "Zisteau" become Zombie Pigmen. *Requires OptiFine or a CEM alternative such as [Entity Model Features](https://modrinth.com/mod/entity-model-features)*.
+
+...and more coming eventually!
 
 ## Toggling Textures
 
@@ -35,7 +36,7 @@ Without them, the pack still works, but all changes are always enabled.
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.9 - 26.3 | [v3.0.0-alpha.2](https://modrinth.com/resourcepack/classics-tweaks/version/v3.0.0-alpha.2) |
+| 1.21.9 - 26.3 | [v3.0.0-beta.1](https://modrinth.com/resourcepack/classics-tweaks/version/v3.0.0-beta.1) |
 
 For Minecraft versions older than 1.21.9, use the standalone packs, which have builds going further back: [Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks/versions), [Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks/versions) and [Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks/versions).
 
