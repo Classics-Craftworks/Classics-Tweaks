@@ -1,3 +1,7 @@
 {
-    condition: "zisteauPigmen"
+    condition: "zisteauPigmen & !zombifiedPiglinFix",
+    fallback: [
+        "assets/minecraft/optifine/random/entity/piglin/zombified_piglin_fix.properties",
+        "assets/minecraft/optifine/random/entity/piglin/zombified_piglin_off.properties"
+    ]
 }

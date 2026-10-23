@@ -20,6 +20,7 @@ Visit the [Gallery page](https://modrinth.com/resourcepack/classics-tweaks/galle
 * **Updated Note Blocks** - Updates Note Blocks to better match the new 26.4 Jukebox textures.
 * **26.4 Jukebox Backport** - Backports the new 26.4 Jukebox textures to 1.21.9 - 26.3.
 * **Zisteau Pigmen** - Zombified Piglins named "Zisteau" become Zombie Pigmen. *Requires OptiFine or a CEM alternative such as [Entity Model Features](https://modrinth.com/mod/entity-model-features)*.
+* **Zombified Piglin Fix** - Fixes Zombified Piglins by flipping their left arm and left leg textures to mirror their right side.
 
 ...and more coming eventually!
 

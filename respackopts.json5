@@ -8,6 +8,7 @@
         lanternTweaks: true,
         updatedNoteBlocks: true,
         jukeboxBackport: true,
-        zisteauPigmen: true
+        zisteauPigmen: true,
+        zombifiedPiglinFix: true,
     }
 }
