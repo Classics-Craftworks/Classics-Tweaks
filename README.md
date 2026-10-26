@@ -37,7 +37,7 @@ Without them, the pack still works, but all changes are always enabled.
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.9 - 26.3 | [v3.0.0-beta.2](https://modrinth.com/resourcepack/classics-tweaks/version/v3.0.0-beta.2) |
+| 1.21.9 - 26.3 | [v3.0.0](https://modrinth.com/resourcepack/classics-tweaks/version/v3.0.0) |
 
 For Minecraft versions older than 1.21.9, use the standalone packs, which have builds going further back: [Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks/versions), [Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks/versions), [Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks/versions) & [Zisteau Pigmen](https://modrinth.com/resourcepack/zisteau-pigmen/versions).
 
