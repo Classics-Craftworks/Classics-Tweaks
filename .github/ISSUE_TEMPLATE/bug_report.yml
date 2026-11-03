@@ -28,6 +28,7 @@ body:
       label: Version
       description: Which version of Classic's Tweaks are you using? If it's not listed, please consider updating!
       options:
+        - v3.1.0-beta.1
         - v3.0.0
     validations:
       required: true
@@ -36,7 +37,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "26.3" or "26.3 Snapshot 10", for example, will do.
+      placeholder: Simply "26.3" or "26.4 Snapshot 7", for example, will do.
     validations:
       required: true
   - type: input
