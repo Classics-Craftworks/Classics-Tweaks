@@ -68,6 +68,10 @@ Those were my own personal versions from 2021 and were never released publicly, 
 
 [![](https://img.shields.io/discord/1107084025442607206?label=Discord&style=for-the-badge&color=5865F2&logo=discord)](https://discord.gg/vZJSDjPcmu)
 
+## Credits
+* [Cosmoman_476](https://www.planetminecraft.com/member/cosmoman_476/)
+    * Netherite Scythe texture
+
 ***
 
 **Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.**
