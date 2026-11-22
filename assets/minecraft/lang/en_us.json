@@ -13,5 +13,9 @@
     "rpo.classicsTweaks.zisteauPigmen": "Zisteau Pigmen",
     "rpo.classicsTweaks.zisteauPigmen.tooltip": "Zombified Piglins named \"Zisteau\" become Zombie Pigmen",
     "rpo.classicsTweaks.zombifiedPiglinFix": "Zombified Piglin Fix",
-    "rpo.classicsTweaks.zombifiedPiglinFix.tooltip": "Flips the left arm and leg textures of Zombified Piglins"
+    "rpo.classicsTweaks.zombifiedPiglinFix.tooltip": "Flips the left arm and leg textures of Zombified Piglins",
+    "rpo.classicsTweaks.suspiciousOutlines": "Suspicious Outlines",
+    "rpo.classicsTweaks.suspiciousOutlines.tooltip": "Adds outlines to Suspicious Gravel and Sand",
+    "rpo.classicsTweaks.netheriteScythe": "Netherite Scythe",
+    "rpo.classicsTweaks.netheriteScythe.tooltip": "Retextures the Netherite Hoe into a scythe"
 }

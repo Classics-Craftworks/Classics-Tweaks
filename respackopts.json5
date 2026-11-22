@@ -10,5 +10,7 @@
         jukeboxBackport: true,
         zisteauPigmen: true,
         zombifiedPiglinFix: true,
+        suspiciousOutlines: true,
+        netheriteScythe: true,
     }
 }
