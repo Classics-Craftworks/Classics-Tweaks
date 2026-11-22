@@ -21,6 +21,8 @@ Visit the [Gallery page](https://modrinth.com/resourcepack/classics-tweaks/galle
 * **26.4 Jukebox Backport** - Backports the new 26.4 Jukebox textures to 1.21.9 - 26.3.
 * **Zisteau Pigmen** - Zombified Piglins named "Zisteau" become Zombie Pigmen. *Requires OptiFine or a CEM alternative such as [Entity Model Features](https://modrinth.com/mod/entity-model-features)*.
 * **Zombified Piglin Fix** - Fixes Zombified Piglins by flipping their left arm and left leg textures to mirror their right side.
+* **Suspicious Outlines** - Adds outlines to Suspicious Gravel and Sand.
+* **Netherite Scythe** - Retextures the Netherite Hoe into a scythe.
 
 ...and more coming eventually!
 
@@ -37,7 +39,7 @@ Without them, the pack still works, but all changes are always enabled.
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 1.21.9 - 26.4-snap-10 | [v3.1.0-beta.3](https://modrinth.com/resourcepack/classics-tweaks/version/v3.1.0-beta.2) |
+| 1.21.9 - 26.4-snap-10 | [v3.1.0-beta.4](https://modrinth.com/resourcepack/classics-tweaks/version/v3.1.0-beta.4) |
 | 1.21.9 - 26.3 | [v3.0.0](https://modrinth.com/resourcepack/classics-tweaks/version/v3.0.0) |
 
 For Minecraft versions older than 1.21.9, use the standalone packs, which have builds going further back: [Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks/versions), [Dye Tweaks](https://modrinth.com/resourcepack/classics-dye-tweaks/versions), [Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks/versions) & [Zisteau Pigmen](https://modrinth.com/resourcepack/zisteau-pigmen/versions).
