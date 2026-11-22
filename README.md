@@ -15,7 +15,7 @@ Classic's Tweaks is only available on the platforms listed below. Please be awar
 Visit the [Gallery page](https://modrinth.com/resourcepack/classics-tweaks/gallery) for a brief look at what Classic's Tweaks has to offer or check out the [Classic's Tweaks wiki page](https://github.com/Classics-Craftworks/Classics-Tweaks/wiki/All-Tweaks) for a full list!
 
 * **Disc Tweaks** - Subtly widens music discs and unifies their design for a more cohesive look.
-* **Dye Tweaks** - Tweaks the dye textures introduced in 1.21.9 by removing the palette strip and fixing some pixels.
+* **Dye Tweaks** - Removes the palette strip from 1.21.9+ dye textures, and fixes some small issues.
 * **Lantern Tweaks** - Tweaks the edges of Soul and Copper Lanterns, to better match the regular Lantern. Also syncs the Soul Lantern glow animation with regular and Copper Lanterns.
 * **Updated Note Blocks** - Updates Note Blocks to better match the new 26.4 Jukebox textures.
 * **26.4 Jukebox Backport** - Backports the new 26.4 Jukebox textures to 1.21.9 - 26.3.
